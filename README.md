@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:70px"> Some-Front-End-Work</span>
+# Some-Front-End-Work 
 # Here are some front end sites I have worked on. 
 
 
