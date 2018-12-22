@@ -1,4 +1,3 @@
-# Some-Front-End-Work 
 # Here are some front end sites I have worked on. 
 
 
